@@ -2,10 +2,12 @@
 
 This is a sandbox that provides all basic features of Minecraft.<br>
 
+More New Things will be added.<br>
+
 Based on LabyStudio's Minecraft recode in JavaScript.<br>
 
 ![Ingame](.github/assets/ingame.png)<br>
-Click [here](https://SaiProgramsz.github.io/WebCraft) for a demo!<br>
+Click [here](https://SaiProgramsz.github.io/WebOurCraft) for a demo!<br>
 
 <h1>Prerequisites:</h1><br>
 
